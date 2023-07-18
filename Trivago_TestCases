@@ -1,0 +1,25 @@
+
+US1001—Trivago Anasayfadaki Arama Cubugundan Ilgili Yerleri Seçerek Rezervasyon Yapabilmeli
+
+
+TC01 Arama cubundaki gidilecek yer giris-cikis misafir ve oda butonlarinin calistigini
+     ve ara butonuna basildigindan ilgili biligilere gore arama yapildigini test edin
+
+Steps:
+1 Kullanicinin anasayfada rezervasyon cubugunda "tum konaklamalar" in secili oldugunu gorur
+
+2 Gidilecek yer butonuna tiklar
+
+3 Gidilecek yer butonuna gitmek istedigi yeri yazar
+
+4 Kullanici giris butonuna tiklar ve gidecegi tarihi secer
+
+5 Kullanici cikis butonuna tiklar ve donecegi tarihi secer
+
+6 Kullanici misafirler ve oda butonuna tiklar ve Yetiskinler icin eksi(-) butonuna basarak kisi sayisini 1'e dusurur
+
+7 Evcil hayvan ve uygula butonuna tiklar
+
+8 Ara butonuna tiklar
+
+9 Bulunan konaklamalar sayisinin 31 oldugunu test eder
